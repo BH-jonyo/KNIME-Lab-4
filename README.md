@@ -1,4 +1,5 @@
 # KNIME-Lab-4
+A new project on ML using KNIME
 
 This week we've been working on the MNIST project which helped us obtain skills in working with categorical data. The aim of the project was to classify handwritten digits into categories given the handwritten images. The algorith was created on a train dataset and then used on a train set. This project also relied on the CRISP-DM framework for Machine Learning.
 
